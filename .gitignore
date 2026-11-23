@@ -1,0 +1,12 @@
+# Third-party APK/XAPK binaries
+*.xapk
+*.apk
+
+# Python virtual environment & cache
+.venv/
+__pycache__/
+*.py[cod]
+
+# User captures & logs
+captures/
+*.log
